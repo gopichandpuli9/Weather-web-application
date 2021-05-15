@@ -3,6 +3,7 @@ This is a dynamic weather website using which we can fetch the temperature of an
 We use the Open Weather Map API to make calls to a restful api to return the current weather data
 > Tools used:
 HTML, CSS, Javascript
+
 > API used: 
 Open Weather Map API
 
