@@ -1,8 +1,8 @@
 # Weather-web-application
 This is a dynamic weather website using which we can fetch the temperature of any location across the world.
 We use the Open Weather Map API to make calls to a restful api to return the current weather data
-# Tools used:
+> Tools used:
 HTML, CSS, Javascript
-# API used: 
+> API used: 
 Open Weather Map API
 
