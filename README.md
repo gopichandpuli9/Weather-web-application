@@ -6,5 +6,5 @@ HTML, CSS, Javascript
 
 ## API used: 
 Open Weather Map API
-[API Link](https://openweathermap.org/api)
+> [API Link](https://openweathermap.org/api)
 
